@@ -1,0 +1,10 @@
+Helen Rivera 75 65 77 61
+Susan Green 79 67 74 72
+James Harris 69 73 95 100
+Richard Diaz 88 85 70 63
+Michael Torres 81 93 62 94
+Ruth Wilson 87 92 98 68
+Jennifer Richardson 90 76 80 71
+Robert Ford 66 99 84 64
+Richard Owens 60 86 83 97
+David Anderson 89 96 91 78
